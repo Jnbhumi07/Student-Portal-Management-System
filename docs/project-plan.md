@@ -84,4 +84,17 @@ Status: ⏳ Pending
 - GitHub Update
 - Interview Preparation
 
+
+## Current Status
+
+Week 1
+✔ Project setup completed
+✔ Documentation completed
+✔ Backend Java files created
+
+Next Step
+- Learn Classes & Objects
+- Implement Student Class
+- Create Student Menu
+
 Status: ⏳ Pending

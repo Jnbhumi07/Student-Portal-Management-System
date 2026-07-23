@@ -80,6 +80,24 @@ This project is being built from scratch as part of my Java learning journey. Th
 
 ---
 
+## 📅 Current Progress
+
+### ✅ Day 1
+- Project Structure Created
+- Documentation Added
+
+### ✅ Day 2
+- Backend Classes Created
+- Student.java
+- Admin.java
+- Course.java
+- Main.java
+
+### 🚧 Upcoming
+- Objects
+- Scanner Input
+- Student Menus
+
 ## 👩‍💻 Developer
 
 **Bhumi Jain**

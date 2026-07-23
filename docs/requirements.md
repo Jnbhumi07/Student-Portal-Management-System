@@ -100,3 +100,20 @@ The Student Portal Management System is a Java-based application designed to man
 - Dashboard with Charts
 - Mobile Responsive Design
 - AI-Based Performance Analysis
+
+
+## Progress Update
+
+### Completed
+- Project folders created
+- Documentation prepared
+- Backend Java files created
+
+### In Progress
+- Java backend development
+
+### Pending
+- Student Management
+- Admin Login
+- Database Integration
+- Frontend Design
